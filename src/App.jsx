@@ -10,7 +10,7 @@ import Career from './components/Career';
 
 function App() {
   let FSDImg = '/src/Img/FSD.jpg';
-  let DataScienceImg = '/src/Img/Data Science.jpg';
+  let DataScienceImg = '/src/Img/DataSciencePNG.png';
   let CyberSecurityImg = '/src/Img/CyberSecurity.jpg';
   let CareerImg = '/src/Img/Career.jpg'
   let x = ''
@@ -20,7 +20,7 @@ function App() {
   }]
 
   let DataScienceCourse =[{
-    img: '/src/Img/Data Science.jpg',
+    img: DataScienceImg,
     CourseName: 'DATA SCIENCE'
   },
   {
