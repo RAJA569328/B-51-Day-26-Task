@@ -13,13 +13,14 @@ function App() {
   let DataScienceImg = '/src/Img/Data Science.jpg';
   let CyberSecurityImg = '/src/Img/CyberSecurity.jpg';
   let CareerImg = '/src/Img/Career.jpg'
+  let x = ''
   let FSDCourse = [{
     img: FSDImg ,
     CourseName: 'MERN STACK',
   }]
 
   let DataScienceCourse =[{
-    img: DataScienceImg,
+    img: '/src/Img/Data Science.jpg',
     CourseName: 'DATA SCIENCE'
   },
   {
