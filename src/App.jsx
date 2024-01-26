@@ -10,10 +10,10 @@ import Career from './components/Career';
 // import './Img/'
 
 function App() {
-  let FSDImg = './Img/FSD.jpg';
-  let DataScienceImg = './Img/DataSciencePNG.png';
-  let CyberSecurityImg = './Img/CyberSecurity.jpg';
-  let CareerImg = './Img/Career.jpg'
+  let FSDImg = './src/Img/FSD.jpg';
+  let DataScienceImg = './src/Img/DataSciencePNG.png';
+  let CyberSecurityImg = './src/Img/CyberSecurity.jpg';
+  let CareerImg = './src/Img/Career.jpg'
   let x = ''
   let FSDCourse = [{
     img: FSDImg ,
