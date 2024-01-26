@@ -10,11 +10,12 @@ import Career from './components/Career';
 // import './Img/'
 
 function App() {
-  let FSDImg = './src/Img/FSD.jpg';
+  let FSDImg = 'https://res.cloudinary.com/dlaqkow18/image/upload/v1706267638/FSD_pgtwfs.jpg';
   let DataScienceImg = './src/Img/DataSciencePNG.png';
   let CyberSecurityImg = './src/Img/CyberSecurity.jpg';
   let CareerImg = './src/Img/Career.jpg'
   let x = ''
+  
   let FSDCourse = [{
     img: FSDImg ,
     CourseName: 'MERN STACK',
