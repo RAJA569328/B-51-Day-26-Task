@@ -1,0 +1,13 @@
+li:hover{
+    background-color: lightblue;
+    text-decoration:underline green 10px;
+}
+ul{
+    height: 100px;
+    text-align: center;
+    font-size: large;
+    display: flex;
+    align-items: center;
+}
+
+
