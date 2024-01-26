@@ -11,10 +11,9 @@ import Career from './components/Career';
 
 function App() {
   let FSDImg = 'https://res.cloudinary.com/dlaqkow18/image/upload/v1706267638/FSD_pgtwfs.jpg';
-  let DataScienceImg = './src/Img/DataSciencePNG.png';
-  let CyberSecurityImg = './src/Img/CyberSecurity.jpg';
-  let CareerImg = './src/Img/Career.jpg'
-  let x = ''
+  let DataScienceImg = 'https://res.cloudinary.com/dlaqkow18/image/upload/v1706267818/Data_Science_k9z9cp.jpg';
+  let CyberSecurityImg = 'https://res.cloudinary.com/dlaqkow18/image/upload/v1706267818/CyberSecurity_xkk1dz.jpg';
+  let CareerImg = 'https://res.cloudinary.com/dlaqkow18/image/upload/v1706267818/Career_owdqzy.jpg';
   
   let FSDCourse = [{
     img: FSDImg ,

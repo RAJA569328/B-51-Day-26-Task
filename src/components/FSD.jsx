@@ -1,5 +1,5 @@
 import React from 'react'
-import '../Img/FSD.jpg'
+// import '../Img/FSD.jpg'
 
 function FSD({FSDCourse}) {
     let Course = FSDCourse
